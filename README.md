@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manuel-david45
-- 👀 I’m interested in ...
+- 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on fullstack development
 - 📫 to contact me kouadidavid02gmail.com ...
